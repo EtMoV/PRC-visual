@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'rpc-visual';
+  title = 'Bienvenue sur l\'interface de chat en ligne';
 }
